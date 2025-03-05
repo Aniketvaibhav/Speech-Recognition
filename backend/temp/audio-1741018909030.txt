@@ -1,0 +1,3 @@
+Hello hello speed recognition app audio transcription app audio test one let's see if the audio
+is getting recorded and transcripted correctly if it's working fine then it's done and if
+it's not working fine then still there are some errors
